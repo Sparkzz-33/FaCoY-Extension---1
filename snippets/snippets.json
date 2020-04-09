@@ -1,0 +1,13 @@
+{
+    "My First Extension":
+    {
+        "prefix": "!facoy",
+        "body":[
+            "<html>",
+            "<head></head>",
+            "<body></body>",
+            "</html>"
+        ],
+        "description": "First prototype fro facoy extension"
+    }
+}
